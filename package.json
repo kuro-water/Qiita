@@ -1,5 +1,9 @@
 {
-  "devDependencies": {
-    "@qiita/qiita-cli": "^1.4.1"
-  }
+    "devDependencies": {
+        "@qiita/qiita-cli": "^1.4.1"
+    },
+    "scripts": {
+        "preview": "npx qiita preview",
+        "publish": "git add . && git commit && git push"
+    }
 }
