@@ -1,10 +1,10 @@
 ---
 title: tscでHoge.tsとhoge.jsが混在する
 tags:
-    - "TypeScript"
+  - TypeScript
 private: true
-updated_at: ""
-id: null
+updated_at: '2024-06-12T10:58:43+09:00'
+id: 5ae10ccbcf3c4f5c0a5d
 organization_url_name: null
 slide: false
 ignorePublish: false
