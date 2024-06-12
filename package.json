@@ -4,6 +4,6 @@
     },
     "scripts": {
         "preview": "npx qiita preview",
-        "publish": "git add . && git commit && git push"
+        "publish": "git add . && git commit && git pull && git push"
     }
 }
